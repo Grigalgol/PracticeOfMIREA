@@ -34,7 +34,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TestBall">
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="prac1.Test" />
       <module name="PracticeOfMIREA" />
@@ -48,8 +48,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestAuthor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prac2.TestAuthor" />
+      <module name="PracticeOfMIREA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prac2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prac2.TestBall" />
+      <module name="PracticeOfMIREA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prac2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestBall" />
+        <item itemvalue="Application.TestAuthor" />
         <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
@@ -62,7 +90,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1631368374096</updated>
-      <workItem from="1631368375804" duration="1845000" />
+      <workItem from="1631368375804" duration="3266000" />
     </task>
     <servers />
   </component>
