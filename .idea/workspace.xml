@@ -36,13 +36,13 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Application.prac4">
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prac3.Test" />
+  <component name="RunManager" selected="Application.Task5">
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prac5.Task1" />
       <module name="PracticeOfMIREA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="prac3.*" />
+          <option name="PATTERN" value="prac5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -50,12 +50,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestAuthor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prac2.TestAuthor" />
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prac5.Task2" />
       <module name="PracticeOfMIREA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="prac2.*" />
+          <option name="PATTERN" value="prac5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestBall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prac2.TestBall" />
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prac5.Task3" />
       <module name="PracticeOfMIREA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="prac2.*" />
+          <option name="PATTERN" value="prac5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prac3.Tester" />
+    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prac5.Task4" />
       <module name="PracticeOfMIREA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="prac3.*" />
+          <option name="PATTERN" value="prac5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="prac4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prac4.prac4" />
+    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prac5.Task5" />
       <module name="PracticeOfMIREA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="prac4.*" />
+          <option name="PATTERN" value="prac5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.prac4" />
-        <item itemvalue="Application.Tester" />
-        <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.TestBall" />
-        <item itemvalue="Application.TestAuthor" />
+        <item itemvalue="Application.Task5" />
+        <item itemvalue="Application.Task4" />
+        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Task1" />
       </list>
     </recent_temporary>
   </component>
@@ -125,7 +125,11 @@
       <workItem from="1631897357276" duration="3110000" />
       <workItem from="1631944943301" duration="3625000" />
       <workItem from="1631949871245" duration="80000" />
-      <workItem from="1631971552126" duration="2415000" />
+      <workItem from="1631971552126" duration="4121000" />
+      <workItem from="1631988873657" duration="58000" />
+      <workItem from="1632044275027" duration="1195000" />
+      <workItem from="1632510578512" duration="610000" />
+      <workItem from="1632560983387" duration="3074000" />
     </task>
     <servers />
   </component>
