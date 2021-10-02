@@ -1,11 +1,12 @@
 package prac4;
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
 
-public class prac4 extends JFrame{
+public class prac4 extends JFrame {
     JButton but1 = new JButton("AC MILAN");
     JButton but2 = new JButton("REAL MADRID");
     JLabel lbl1 = new JLabel("Result 0 X 0");
@@ -17,6 +18,7 @@ public class prac4 extends JFrame{
     public prac4() {
         setLayout(null);
         setSize(600, 200);
+        this.setDefaultCloseOperation(prac4.EXIT_ON_CLOSE);
         but1.setBounds(20, 20, 220, 50);
         but2.setBounds(360, 20, 220, 50);
         lbl1.setHorizontalAlignment(JLabel.CENTER);
@@ -25,12 +27,12 @@ public class prac4 extends JFrame{
         lbl2.setBounds(225, 100, 150, 30);
         lbl3.setHorizontalAlignment(JLabel.CENTER);
         lbl3.setBounds(225, 130, 150, 30);
-        mil=0;
-        rm=0;
+        mil = 0;
+        rm = 0;
         but1.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                mil+=1;
+                mil += 1;
                 lbl1.setText("Result: " + mil + " X " + rm);
                 lbl2.setText("Last Scorer: AC Milan");
                 if (mil > rm) lbl3.setText("Winner: AC Milan");
@@ -56,8 +58,7 @@ public class prac4 extends JFrame{
         add(lbl3);
     }
 
-    public static void main(String[]args)
-    {
+    public static void main(String[] args) {
         new prac4().setVisible(true);
     }
 }

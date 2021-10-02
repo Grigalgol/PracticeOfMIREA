@@ -4,7 +4,7 @@ public class Task1 {
     //упр 6 Проверка чисел на простоту
     public static void main(String[] args) {
         int i = 2;
-        int n = 7;
+        int n = 47;
         System.out.println(n + " - " + (isSimple(n, i) ? "простое число" : "составное число"));
     }
 
