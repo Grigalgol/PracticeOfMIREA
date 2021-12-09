@@ -14,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -44,26 +45,13 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Application.Test (2)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prac11.prac11ex3.Main" />
+  <component name="RunManager" selected="Application.UI">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prac16.Main" />
       <module name="PracticeOfMIREA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="prac11.prac11ex3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prac11.prac11ex3.Main" />
-      <module name="PracticeOfMIREA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="prac11.prac11ex3.*" />
+          <option name="PATTERN" value="prac16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="prac12.Test" />
+    <configuration name="UI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prac16.UI" />
       <module name="PracticeOfMIREA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="prac12.*" />
+          <option name="PATTERN" value="prac16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UI" />
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Test (2)" />
         <item itemvalue="Application.SortingStudents" />
         <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +166,11 @@
       <workItem from="1638868040734" duration="521000" />
       <workItem from="1638875919651" duration="3525000" />
       <workItem from="1638908275415" duration="5616000" />
-      <workItem from="1638945664698" duration="12176000" />
+      <workItem from="1638945664698" duration="13728000" />
+      <workItem from="1638966710073" duration="170000" />
+      <workItem from="1638967223464" duration="2938000" />
+      <workItem from="1639067873738" duration="8964000" />
+      <workItem from="1639077305035" duration="2000" />
     </task>
     <servers />
   </component>
